@@ -8,7 +8,7 @@ API_ENDPOINT = "http://115.115.91.60:5432/train"
 data = {
 	"url": "https://github.com/yashtest11111/yash6_test.git",
 	"branch_name": "master",
-	"user_name": "yash6@gmail.com"
+	"user_name": "demo_mlops@gmail.com"
 }
 
 # sending post request and saving response as response object
